@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "De_Cuadrado_A_Triangulo_A_Punto": "github:jcesar310/de_cuadrado_a_triangulo_a_punto#a4b89f281730b1d6c580f4be2618c390ca388f36"
     },
     "files": [
         "main.blocks",
